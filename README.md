@@ -1,0 +1,2 @@
+# reduxEg
+for my self
